@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title>Sorglosenergie Muster</title>
+  </head>
+  <body>
+    <h1>Muster zur Einbettung von Sorglosenergie</h1>
+
+
+
+
+
+
+<!-- Einzufügender Code Start-->
+<!--12345 Muss durch Ihre PartnerID Ersetzt werden!-->
+     <script src="https://" type="text/javascript"></script>
+     <div id="example-widget-container"></div>
+<!-- Ende Einzufügender Code-->
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
+
